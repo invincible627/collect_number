@@ -8,9 +8,9 @@ wxpython
 #### how to run
 Install the wxpython library and run the .py file
 ##### created by
-powerful392
+invincible627
 ###### github profile link
-https:/github.com/powerful392
+https:/github.com/invincible627
 
 
 # جمع عدد
@@ -23,6 +23,6 @@ wxpython
 #### نحوه اجرا
 کتابخانه ی wxpython رو نصب کنید و فایل .py رو اجرا کنید
 ##### ساخته شده توسط
-powerful392
+invincible627
 ###### لینک پروفایل گیتهاب
-https:/github.com/powerful392
+https:/github.com/invincible627
